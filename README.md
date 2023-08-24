@@ -5,5 +5,5 @@
   <img src="https://img.shields.io/github/last-commit/ziliolu/photo_editor?color=#FFFFFF&style=flat-square" />
 </p>
 <p align="center">
-  <img src="https://github.com/ziliolu/photo_editor/blob/main/info/before_after.jpg" width="600" />
+  <img src="https://github.com/ziliolu/photo_editor/blob/main/info/before_after.jpg" width="500" />
 </p>
