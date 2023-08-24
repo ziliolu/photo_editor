@@ -1,11 +1,11 @@
 # Image Editing Script
 
 <p align="center">
-This is a simple Python script that processes images from a specified directory, applies a grayscale filter, enhances contrast, and saves the edited images to an output directory.
   <img src="https://img.shields.io/github/languages/top/ziliolu/photo_editor?color=#FFFFFF&style=flat-square" />
   <img src="https://img.shields.io/badge/status-finished-success?color=#FFFFFF&style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/ziliolu/photo_editor?color=#FFFFFF&style=flat-square" />
 </p>
+This is a simple Python script that processes images from a specified directory, applies a grayscale filter, enhances contrast, and saves the edited images to an output directory.
 <p align="center">
   <img src="https://github.com/ziliolu/photo_editor/blob/main/info/before_after.jpg" width="500" />
 </p>
