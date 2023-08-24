@@ -28,19 +28,19 @@ This is a simple Python script that processes images from a specified directory,
 
 The script performs the following steps:
 
-1. Imports required modules:
+1. **Imports required modules:**
 
    - `PIL.Image`: Image processing functionalities.
    - `PIL.ImageEnhance`: Image enhancement utilities.
    - `PIL.ImageFilter`: Image filter effects.
    - `os`: Operating system interaction.
 
-2. Defines input and output paths:
+2. **Defines input and output paths:**
 
    - `path`: The directory containing input images.
    - `path_out`: The directory to save edited images.
 
-3. Loops through each file in the input directory:
+3. **Loops through each file in the input directory:**
 
    - Opens the image using `PIL.Image.open`.
    - Converts the image to grayscale using `.convert("L")`.
